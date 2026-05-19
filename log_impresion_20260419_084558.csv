@@ -1,0 +1,5 @@
+timestamp,level,message
+08:45:00,info,Cámara iniciada en índice 0
+08:45:06,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+08:45:07,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+08:45:39,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.

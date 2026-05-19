@@ -1,0 +1,410 @@
+timestamp,level,message
+16:36:43,info,Cámara iniciada
+16:36:49,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:36:50,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:36:50,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:36:51,warning,⚠ Predominan líneas verticales. Posible desalineación en eje X.
+16:36:51,warning,⚠ Predominan líneas verticales. Posible desalineación en eje X.
+16:36:52,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:36:52,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:36:53,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:36:55,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:36:55,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:36:56,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:36:56,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:36:57,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:36:57,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:36:59,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:36:59,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:00,warning,⚠ Predominan líneas verticales. Posible desalineación en eje X.
+16:37:00,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:01,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:02,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:02,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:03,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:03,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:04,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:04,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:05,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:06,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:06,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:06,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:07,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:07,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:08,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:08,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:09,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:09,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:09,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:10,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:10,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:11,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:11,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:12,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:12,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:13,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:13,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:14,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:14,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:14,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:15,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:15,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:16,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:16,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:17,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:17,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:18,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:18,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:19,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:19,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:19,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:20,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:20,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:21,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:21,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:22,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:22,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:22,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:23,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:23,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:24,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:25,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:25,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:25,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:26,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:26,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:27,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:27,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:28,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:28,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:28,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:29,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:29,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:30,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:30,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:31,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:31,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:32,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:32,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:32,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:33,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:33,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:34,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:34,warning,⚠ Predominan líneas verticales. Posible desalineación en eje X.
+16:37:35,warning,⚠ Predominan líneas verticales. Posible desalineación en eje X.
+16:37:35,warning,⚠ Predominan líneas verticales. Posible desalineación en eje X.
+16:37:35,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:36,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:36,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:37,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:38,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:38,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:38,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:39,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:39,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:40,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:40,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:41,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:41,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:41,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:42,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:42,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:43,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:43,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:44,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:44,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:44,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:45,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:45,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:46,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:46,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:47,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:47,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:48,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:48,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:48,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:37:49,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:49,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:50,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:50,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:51,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:51,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:51,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:52,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:52,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:53,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:54,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:54,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:54,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:54,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:55,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:55,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:56,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:56,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:57,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:57,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:57,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:58,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:58,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:59,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:37:59,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:38:00,info,Cámara detenida
+16:38:00,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:38:40,info,Cámara iniciada
+16:38:41,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:38:41,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:38:42,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:38:42,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:38:43,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:38:43,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:38:44,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:38:45,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:38:45,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:38:46,warning,⚠ Predominan líneas verticales. Posible desalineación en eje X.
+16:38:46,warning,⚠ Predominan líneas verticales. Posible desalineación en eje X.
+16:38:47,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:38:47,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:38:48,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:38:48,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:38:48,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:38:49,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:38:49,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:38:50,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:38:50,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:38:51,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:38:51,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:38:52,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:38:52,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:38:52,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:38:53,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:38:53,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:38:54,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:38:55,warning,⚠ Predominan líneas verticales. Posible desalineación en eje X.
+16:38:56,warning,⚠ Predominan líneas verticales. Posible desalineación en eje X.
+16:38:56,warning,⚠ Predominan líneas verticales. Posible desalineación en eje X.
+16:38:57,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:38:58,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:38:58,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:38:58,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:38:59,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:00,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:39:00,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:01,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:02,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:03,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:03,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:03,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:04,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:05,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:05,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:05,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:05,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:06,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:06,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:07,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:08,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:08,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:09,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:09,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:10,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:10,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:11,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:12,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:12,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:13,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:13,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:13,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:14,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:15,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:15,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:15,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:16,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:16,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:17,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:18,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:18,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:19,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:19,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:21,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:21,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:22,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:22,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:22,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:23,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:23,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:24,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:24,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:24,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:25,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:25,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:26,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:27,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:27,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:27,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:28,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:28,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:29,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:29,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:30,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:30,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:31,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:31,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:31,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:31,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:32,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:32,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:32,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:34,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:39:34,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:39:34,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:39:35,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:39:35,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:35,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:39:36,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:36,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:37,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:37,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:37,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:38,warning,⚠ Predominan líneas verticales. Posible desalineación en eje X.
+16:39:38,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:38,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:39,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:39,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:39,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:40,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:39:41,warning,⚠ Predominan líneas verticales. Posible desalineación en eje X.
+16:39:41,warning,⚠ Predominan líneas verticales. Posible desalineación en eje X.
+16:39:41,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:41,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:42,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:42,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:43,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:39:43,warning,⚠ Predominan líneas verticales. Posible desalineación en eje X.
+16:39:44,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:39:44,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:44,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:44,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:39:45,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:39:45,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:39:45,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:39:46,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:46,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:46,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:47,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:47,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:47,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:48,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:48,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:49,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:49,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:39:49,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:39:50,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:39:50,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:39:51,warning,⚠ Predominan líneas horizontales. Posible desalineación en eje Y.
+16:39:51,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:51,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:52,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:53,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:54,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:54,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:54,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:55,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:55,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:56,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:56,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:57,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:57,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:57,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:58,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:58,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:58,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:59,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:39:59,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:00,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:00,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:00,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:01,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:02,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:02,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:02,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:03,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:03,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:04,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:05,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:05,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:06,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:07,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:08,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:09,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:10,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:10,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:10,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:11,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:11,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:12,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:12,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:13,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:13,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:13,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:14,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:14,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:14,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:15,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:15,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:16,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:16,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:16,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:17,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:17,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:18,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:18,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:19,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:19,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:19,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:20,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:20,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:21,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:21,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:21,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:22,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:23,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:23,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:23,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:23,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:24,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:24,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:24,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:24,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:25,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:25,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:26,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:26,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:41,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:42,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:44,info,Captura guardada: E:/Tesis_Proyecto/tesis-vision3d/captura_20260518_164026.png
+16:40:47,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:47,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:48,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:48,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:49,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:49,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:50,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:50,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:51,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:51,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:51,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:52,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:52,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:52,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:54,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:54,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:54,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:55,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:55,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:55,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:56,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:56,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:57,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:57,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:57,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
+16:40:58,warning,⚠ No se detectan trazos. Posible falta de extrusión o cama fría.
